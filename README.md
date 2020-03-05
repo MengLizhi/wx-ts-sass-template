@@ -21,7 +21,6 @@ sass 替代 wxss
     + untils (小程序API公共封装)
   + README.md (项目说明)
   + typings (Typescript 类型声明)
-    + $.d.ts (项目全局方法类型声明)
   + gulpfile.js (gulp打包器配置)
   + project.config.json (小程序开发编辑器环境配置)
   + tsconfig.json (typescript 环境配置文件)
